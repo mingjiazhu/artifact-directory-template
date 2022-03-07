@@ -2,4 +2,10 @@ Title:
 Stock Price Prediction Based on Financial News
 
 Abstract:
-Nowadays, we are seeing a great amount of data generated everywhere. The Data will bring us both challenges and opportunities. As AutoPhrase is developed, an automated and domain-independent phrase mining method, we see its potential to be used on extracting quality phrases from numerous daily financial news and editorials, to improve the current data prediction model using bag-of-words and other conventions as its entry. This experiment could be very promising since it can be a quick classifier of long text reports. Analysts then may use the result as a supportive reason for future investments. Thus, adapting this method could improve the efficiency with the same accuracy if used properly. In this project, we will give a report of comparison of performances among conventional methods and AutoPhrase on predicting the change of stock price (increase or decrease). We will also include the comparison between the performances of AutoPhrase and deep learning methods on predicting the change of the stock price.
+Nowadays, we are seeing a great amount of data generated everywhere. The Data will bring us both challenges and opportunities. As AutoPhrase is developed, 
+an automated and domain-independent phrase mining method, we see its potential to be used on extracting quality phrases from numerous daily financial news 
+and editorials, to improve the current data prediction model using bag-of-words and other conventions as its entry. This experiment could be very promising 
+since it can be a quick classifier of long text reports. Analysts then may use the result as a supportive reason for future investments. Thus, adapting this 
+method could improve the efficiency with the same accuracy if used properly. In this project, we will give a report of comparison of performances among 
+conventional methods and AutoPhrase on predicting the change of stock price (increase or decrease). We will also include the comparison between the performances 
+of AutoPhrase and deep learning methods on predicting the change of the stock price.
