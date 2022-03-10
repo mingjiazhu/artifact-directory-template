@@ -2,5 +2,6 @@ Title:
 Model Analysis of Stock Price Trend Predictions based on Financial News
 
 Abstract:
-Financial news is an important source for people to learn information in financial field, such as the variation in stock market. News could also be a key factor to forecast change in the stock market. In this report, we introduce different methods we tried to predict the change of stock price by using financial news, including
-Bag-of-Words, AutoPhrase, LSTM, and BERT. Our experiments demonstrate that BERT outperforms other models.
+Financial news is an important source for people to learn information in financial field, such as the variation in stock market. News could also be a key 
+factor to forecast change in the stock market. In this report, we introduce different methods we tried to predict the change of stock price by using 
+financial news, including Bag-of-Words, AutoPhrase, LSTM, and BERT. Our experiments demonstrate that BERT outperforms other models.
