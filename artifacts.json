@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/mingjiazhu/artifact-directory-template.git",
     "project-repository": "https://github.com/lizheng1226/DSC180B_Project_AutoFiNews.git",
-    "dockerhub-repository": "https://hub.docker.com/repository/docker/lizheng1226/dsc180_autofinews",
+    "dockerhub-repository": "lizheng1226/dsc180_autofinews",
     "project-website-url": "https://aponyua991.github.io/AutoFiNews/",
     "project-website-code": "https://github.com/aponyua991/aponyua991.github.io.git"
 }
